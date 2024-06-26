@@ -1,24 +1,24 @@
 //base by Tech-God
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @techgod143
-//Instagram: techgod143
+//Instagram: kingpin_torretto_7
 //Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//GitHub: @Giftbt
+//WhatsApp: +254789225385
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "254789225385"
+global.ownername = "📌📌𝛺𝜃𝜂𝑠𝑖𝜇𝜀𝛾"
 global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.socialm = "GitHub: Giftbt"
+global.location = "Kenya, Nakuru,Kisumu"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254789225385'  //creator number
+global.ownername = '📌📌𝛺𝜃𝜂𝑠𝑖𝜇𝜀𝛾' //owner name
+global.botname = '𝛺𝜃𝜂𝑠𝑖𝜇𝜀𝛾 𝛣𝜇𝑔 𝛽𝜃𝜏 ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -35,8 +35,8 @@ global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
